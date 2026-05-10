@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pranam! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI+and+ML+Engineer;Generative+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI+and+ML+Engineer" alt="Typing SVG" />
 </p>
 
 <h2 align="center">✨ About Me</h2>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optuna-20417F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-123692?style=for-the-badge&logo=optuna&logoColor=white" />
   <br>
   <!-- Visualization & Processing -->
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
