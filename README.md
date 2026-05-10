@@ -7,7 +7,7 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
   I am a passionate <b>Data Science and AI Enthusiast</b> currently studying at <b>IIT Kharagpur</b>.<br>
-  I specialize in building intelligent systems, mastering <b>Machine Learning</b>, and exploring <b>Generative AI</b> workflows.<br>
+  I specialize in  <b>Machine Learning</b>, and currently exploring <b>Generative AI</b> workflows and building AI Agents.<br>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
