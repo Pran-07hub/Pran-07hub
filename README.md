@@ -7,7 +7,7 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
   I am a passionate <b>Data Science and AI Enthusiast</b> currently studying at <b>IIT Kharagpur</b>.<br>
-  I specialize in  <b>Machine Learning</b>, and currently exploring <b>Generative AI</b> workflows and building <b>AI Agents<\b>.<br>
+  I specialize in  <b>Machine Learning</b>, and currently exploring <b>Generative AI</b> workflows and building <b>AI Agents</b>.<br>
 </p>
 
 <h2 align="center">🚀 Current Interests</h2>
@@ -49,7 +49,7 @@
 
 <h2 align="center">🌐 Reach Out</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/pranam-goyal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pranam-goyal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:pg29oct2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/its.pranam07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
