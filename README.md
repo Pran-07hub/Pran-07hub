@@ -18,6 +18,7 @@
   <!-- <br> -->
   <!-- Line 2: Vision & Optimization -->
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Architectures-0052CC?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
