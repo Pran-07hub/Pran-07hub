@@ -7,7 +7,18 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
   I am a passionate <b>Data Science and AI Enthusiast</b> currently studying at <b>IIT Kharagpur</b>.<br>
-  I specialize in  <b>Machine Learning</b>, and currently exploring <b>Generative AI</b> workflows and building AI Agents.<br>
+  I specialize in  <b>Machine Learning</b>, and currently exploring <b>Generative AI</b> workflows and building <b>AI Agents<\b>.<br>
+</p>
+
+<h2 align="center">🚀 Current Interests</h2>
+<p align="center">
+  <!-- Line 1: Advanced AI & Agents -->
+  <img src="https://img.shields.io/badge/Generative%20AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents%20%26%20Autonomy-FF6C37?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <br>
+  <!-- Line 2: Vision & Optimization -->
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
