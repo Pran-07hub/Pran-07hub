@@ -44,7 +44,7 @@
  <img src="https://img.shields.io/badge/Seaborn-44a39c?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=chart.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-4B8E34?style=for-the-badge&logo=rss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-4B8E34?style=for-the-badge&logo=airplay&logoColor=white" />
 </p>
 
 <h2 align="center">🌐 Reach Out</h2>
