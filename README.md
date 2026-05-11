@@ -15,7 +15,7 @@
   <!-- Line 1: Advanced AI & Agents -->
   <img src="https://img.shields.io/badge/Generative%20AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agents-FF6C37?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <br>
+  <!-- <br> -->
   <!-- Line 2: Vision & Optimization -->
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
